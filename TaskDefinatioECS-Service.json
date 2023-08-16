@@ -27,7 +27,7 @@
         }
     ],
     "family": "TaskDefinatioECS-Service",
-    "executionRoleArn": "arn:aws:iam::<Account-ID>:role/ecsTaskExecutionRole",
+    "executionRoleArn": "arn:aws:iam::493628868007:role/ecsTaskExecutionRole",
     "networkMode": "awsvpc",
     "revision": 3,
     "volumes": [],
